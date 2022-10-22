@@ -5,7 +5,7 @@ import (
 
 	"github.com/gofiber/fiber"
 	"github.com/gofiber/fiber/v2"
-	"github.com/mello369/url_shortner/api/helpers/helpers.go"
+	"github.com/mello369/url_shortner/api/helpers"
 )
 
 type request struct {
