@@ -1,2 +1,2 @@
 # url_shortner
-#### Url Shortner built using Golang,Redis and Docker.
+#### Url Shortner built using Go-Fiber,Redis and Docker.
